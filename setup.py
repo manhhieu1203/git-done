@@ -12,7 +12,7 @@ setup(
 	description="A git extension to manage todos and commit messages.",
 	long_description=open('README.md').read(),
 	install_requires=[
-		"GitPython == 0.3.2.RC1",
+		"GitPython == 3.1.1",
 		"termcolor == 1.1.0",
 	],
 )
